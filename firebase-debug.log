@@ -1,0 +1,21 @@
+[debug] [2021-01-12T21:40:50.049Z] ----------------------------------------------------------------------
+[debug] [2021-01-12T21:40:50.054Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Олег\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-01-12T21:40:50.055Z] CLI Version:   9.2.0
+[debug] [2021-01-12T21:40:50.055Z] Platform:      win32
+[debug] [2021-01-12T21:40:50.056Z] Node Version:  v15.5.0
+[debug] [2021-01-12T21:40:50.057Z] Time:          Tue Jan 12 2021 23:40:50 GMT+0200 (GMT+02:00)
+[debug] [2021-01-12T21:40:50.058Z] ----------------------------------------------------------------------
+[debug] [2021-01-12T21:40:50.058Z] 
+[debug] [2021-01-12T21:40:50.068Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-01-12T21:40:50.069Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Олег\WebstormProjects\item-list
+
